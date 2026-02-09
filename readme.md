@@ -27,6 +27,6 @@ using the Breast Cancer Wisconsin dataset.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 📌 Author
 Aagman Bharti
